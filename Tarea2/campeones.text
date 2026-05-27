@@ -1,0 +1,54 @@
+- nombre: "Yone"
+  altura: 1.88
+  peso: 82.0
+  edad: 26
+  lista de habilidades:
+    - "Acero mortal"
+    - "Cuchilla Espiritual"
+    - "Alma Desatada"
+    - "Destino Sellado"
+  descripcion: "El imperturbable espadachín que caza azakanas para entender en qué se convirtió tras su muerte."
+
+- nombre: "Gwen"
+  altura: 1.65
+  peso: 55.5
+  edad: 2
+  lista de habilidades:
+    - "¡A cortar!"
+    - "Niebla Sagrada"
+    - "Costura Letal"
+    - "Rafaga de Agujas"
+  descripcion: "Una muñeca traída a la vida por la magia que lucha usando las herramientas de costura de su creadora."
+
+- nombre: "Pantheon"
+  altura: 1.85
+  peso: 95.0
+  edad: 35
+  lista de habilidades:
+    - "Lanza Cometa"
+    - "Salto con Escudo"
+    - "Asalto Protector"
+    - "Gran Descarga Estelar"
+  descripcion: "Atreus, un hombre mortal que empuña el poder de un Aspecto celestial tras sobrevivir a la muerte del dios de la guerra."
+
+- nombre: "Aurelion Sol"
+  altura: 500.0
+  peso: 9999.9
+  edad: 13000000000
+  lista de habilidades:
+    - "Aliento de Luz"
+    - "Vuelo Astral"
+    - "Singularidad"
+    - "Descenso celestial"
+  descripcion: "Un dragón celestial ancestral que solía forjar estrellas en el vacío del cosmos antes de ser engañado por Targón."
+
+- nombre: "Caitlyn"
+  altura: 1.75
+  peso: 60.0
+  edad: 25
+  lista de habilidades:
+    - "Pacificador de Piltover"
+    - "Trampa para Yordles"
+    - "Red de Calibre 90"
+    - "As en la Manga"
+  descripcion: "La Sheriff de Piltover, conocida por ser la mejor investigadora y la tiradora más precisa de la ciudad del progreso."
